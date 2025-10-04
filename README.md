@@ -1,6 +1,27 @@
 # NURA – Plataforma Digital para Alimentação Saudável
 
-## Integrantes do Grupo
+## Sumário
+
+- [Descrição](#descrição)  
+- [Integrantes](#integrantes)  
+- [Tema Central do TCC](#tema-central-do-tcc)  
+- [Propósito Principal](#propósito-principal)  
+- [Objetivos Específicos](#objetivos-específicos)  
+- [Justificativa](#justificativa)  
+- [Status do Projeto](#status-do-projeto)  
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+- [Como Rodar o Projeto](#como-rodar-o-projeto)  
+- [Screenshots](#screenshots)  
+- [Como Contribuir](#como-contribuir)  
+- [Contato](#contato)  
+- [Roadmap](#roadmap)  
+- [Licença](#licença)  
+
+## Descrição
+
+NURA é uma plataforma digital responsiva voltada à comercialização de produtos alimentares adaptados a diferentes necessidades nutricionais, como intolerância à lactose, intolerância ao glúten, vegetarianismo, veganismo e controle de diabetes. O sistema contará com um e-commerce integrado a serviços de entrega (delivery), permitindo que os usuários recebam em domicílio alimentos saudáveis compatíveis com seu perfil alimentar. Além disso, será desenvolvida uma área administrativa robusta para gestão de produtos, estoques, pedidos, clientes e relatórios, tudo em uma interface intuitiva e acessível.
+
+## Integrantes
 
 - Wellington Pereira Cavalcanti – RM 26530  
 - Matheus Chagas Colasso Ferreira – RM 23280  
@@ -8,37 +29,68 @@
 
 ## Tema Central do TCC
 
-NURA é uma plataforma digital responsiva voltada à comercialização de produtos alimentares adaptados a diferentes necessidades nutricionais, como intolerância à lactose, intolerância ao glúten, vegetarianismo, veganismo e controle de diabetes. O sistema contará com um e-commerce integrado a serviços de entrega (delivery), permitindo que os usuários recebam em domicílio alimentos saudáveis compatíveis com seu perfil alimentar. Além disso, será desenvolvida uma área administrativa robusta para gestão de produtos, estoques, pedidos, clientes e relatórios, tudo em uma interface intuitiva e acessível.
+Desenvolvimento da plataforma digital NURA para alimentação saudável, com e-commerce e gestão personalizada de produtos para dietas especiais.
 
 ## Propósito Principal
 
-O objetivo principal do projeto é oferecer uma solução digital inovadora que facilite o acesso a produtos alimentares específicos por meio de uma loja virtual moderna, personalizada e com serviço de entregas. A proposta visa atender pessoas com dificuldades para encontrar alimentos adequados às suas restrições ou escolhas alimentares, ao mesmo tempo em que disponibiliza ferramentas completas de administração para gestão do catálogo, estoque, pedidos e usuários.
+Oferecer uma solução digital inovadora que facilite o acesso a produtos alimentares específicos por meio de uma loja virtual moderna, personalizada e com serviço de entregas, atendendo pessoas com restrições ou escolhas alimentares específicas e disponibilizando ferramentas administrativas completas.
 
 ## Objetivos Específicos
 
-- Desenvolver um site responsivo de e-commerce voltado à venda e entrega de alimentos saudáveis para dietas específicas;  
-- Implementar filtros inteligentes por perfil alimentar (sem glúten, sem lactose, vegano, vegetariano, entre outros);  
-- Incluir recursos como carrinho de compras, lista de favoritos, simulação de pagamento, cálculo de frete e sistema de avaliações;  
-- Criar uma área administrativa com dashboard, gráficos e controle de estoque, pedidos e usuários;  
-- Incorporar funcionalidades modernas, como acessibilidade, modo escuro, notificações por e-mail e chatbot baseado em FAQ;  
-- Garantir uma experiência prática, segura e acessível para que o usuário receba os produtos em casa com comodidade.
+- Desenvolver site responsivo de e-commerce para venda e entrega de alimentos saudáveis;  
+- Implementar filtros por perfil alimentar (sem glúten, sem lactose, vegano, vegetariano, etc.);  
+- Incluir carrinho de compras, lista de favoritos, simulação de pagamento, cálculo de frete e sistema de avaliações;  
+- Criar área administrativa com dashboard, gráficos e controle de estoque, pedidos e usuários;  
+- Adicionar acessibilidade, modo escuro, notificações por e-mail e chatbot FAQ;  
+- Garantir experiência prática, segura e acessível para entrega domiciliar.
 
 ## Justificativa
 
-A busca por uma alimentação saudável e personalizada vem crescendo significativamente, impulsionada por pessoas com restrições alimentares e por aquelas que seguem estilos de vida específicos. Apesar dessa demanda, ainda são limitadas as plataformas digitais que concentram em um único ambiente produtos adequados com entrega domiciliar eficiente.
+A crescente busca por alimentação saudável e personalizada exige plataformas digitais que concentrem produtos adequados com entrega eficiente, área ainda pouco atendida no mercado.
 
 ## Status do Projeto
 
-O projeto está em desenvolvimento e será atualizado conforme novas funcionalidades forem implementadas.
+Em desenvolvimento. Atualizações serão feitas conforme novas funcionalidades forem implementadas.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-- (Liste aqui as tecnologias que vocês estão usando, ex: HTML, CSS, JavaScript, React, Node.js, etc.)
+- (Adicione as tecnologias que vocês estão usando, ex: HTML, CSS, JavaScript, React, Node.js, etc.)
 
-## Como rodar o projeto
+## Como Rodar o Projeto
 
-(Se já tiver algo para rodar, coloque instruções aqui. Se não, deixe essa seção para ser preenchida futuramente.)
+(Descreva aqui como rodar localmente ou acessar a plataforma, quando disponível.)
+
+## Screenshots
+
+> *Exemplo:*  
+> ![Tela inicial](./imagens/tela-inicial.png)  
+> *(Substitua pelo caminho e imagem reais do seu projeto)*
+
+## Como Contribuir
+
+1. Faça um fork do repositório  
+2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`)  
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`)  
+4. Envie para o seu fork (`git push origin feature/nome-da-feature`)  
+5. Abra um Pull Request neste repositório
+
+## Contato
+
+- Wellington Pereira: [github.com/wellingtonp](https://github.com/wellingtonp)  
+- Matheus Chagas: [github.com/matheuschagas](https://github.com/matheuschagas)  
+- Jairo Machado: [github.com/jairomachado](https://github.com/jairomachado)  
+
+## Roadmap
+
+- [x] Planejamento do projeto  
+- [x] Definição do tema e objetivos  
+- [ ] Desenvolvimento do front-end responsivo  
+- [ ] Implementação do sistema de filtros e carrinho de compras  
+- [ ] Desenvolvimento da área administrativa  
+- [ ] Integração com sistema de entrega  
+- [ ] Testes e ajustes finais  
+- [ ] Deploy e documentação completa  
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.  
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
