@@ -84,8 +84,8 @@ Em desenvolvimento. Atualizações serão feitas conforme novas funcionalidades 
 
 - [x] Planejamento do projeto  
 - [x] Definição do tema e objetivos  
-- [ ] Desenvolvimento do front-end responsivo  
-- [ ] Implementação do sistema de filtros e carrinho de compras  
+- [x] Desenvolvimento do front-end responsivo  
+- [x] Implementação do sistema de filtros e carrinho de compras  
 - [ ] Desenvolvimento da área administrativa  
 - [ ] Integração com sistema de entrega  
 - [ ] Testes e ajustes finais  
